@@ -32,8 +32,6 @@ pipeline {
                     image 'cdrx/pyinstaller-linux:python2'
                 }
             }
-
-
-    }
-    
+    } 
+}
 }
